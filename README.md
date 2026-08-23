@@ -1,2 +1,6 @@
 # Real-time-prostheses-management-pipeline-in-Simulink-MATLAB
-Case Study : Real Time Predictive Maintenance for IOT Based Prosthetics. Using a RTDP pipeline that simulates a modern prosthetic system and proactive monitoring system that helps users improve the longevity of their prostheses and live comfortably.
+
+Case Study : Real Time Predictive Maintenance for IOT Based Prosthetics. 
+
+A category of med-tech devices that still seems to be not fully included in the Internet of Medical Things (IoMT) and Internet of Personal Healthcare (IoPH) are prostheses. In this article, we will be studying the case of modern IOT based prosthetics and predictive maintenance using a RTDP pipeline that simulates a modern prosthetic system and proactive monitoring system that helps users improve the longevity of their prostheses and live comfortably.
+Prostheses come under the umbrella of devices termed as Assistive Technology. Assistive products help maintain or improv an  individual’s functioning related to cognition, communication, hearing, mobility, self-care and vision, thus enabling their health, well-being, inclusion and participation[2] World Health Organization, “Assistive technology,” World Health Organization, Jan. 2, 2024. [Online]. Available: https://www.who.int/news-room/fact-sheets/detail/assistive-technology. [Accessed: Aug. 23, 2026]. The demographic of people who use prosthetics includes people involved in military and combat related conflicts, workplace and industrial accidents, motor vehicle and traffic crashes, power tool malfunctions, etcetera.
